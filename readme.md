@@ -1,1 +1,1 @@
-[https://coolors.co/](coolors.co) - color picker tool
+[https://coolors.co/](https://coolors.co/) - color picker tool
